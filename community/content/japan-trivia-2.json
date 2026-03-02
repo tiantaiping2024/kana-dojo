@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "question": "Which region is famous for green tea production in Japan?",
+    "answers": [
+      "Shizuoka",
+      "Okinawa",
+      "Tohoku",
+      "Hokuriku"
+    ],
+    "correctAnswerIndex": 0
+  }
+]
