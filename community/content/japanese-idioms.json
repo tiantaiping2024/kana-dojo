@@ -78,17 +78,17 @@
     "meaning": "Take extra care. (Set 5)"
   },
   {
-  "japanese": "足を引っ張る",
-  "romaji": "Ashi o hipparu",
-  "english": "Pull someone back",
-  "meaning": "Hold someone back. (Set 5)"
-},
+    "japanese": "足を引っ張る",
+    "romaji": "Ashi o hipparu",
+    "english": "Pull someone back",
+    "meaning": "Hold someone back. (Set 5)"
+  },
   {
-  "japanese": "水に流す",
-  "romaji": "Mizu ni nagasu",
-  "english": "Let it flow in water",
-  "meaning": "Let bygones be bygones. (Set 1)"
-},
+    "japanese": "水に流す",
+    "romaji": "Mizu ni nagasu",
+    "english": "Let it flow in water",
+    "meaning": "Let bygones be bygones. (Set 1)"
+  },
   {
     "japanese": "猫に小判",
     "romaji": "Neko ni koban",
@@ -100,19 +100,23 @@
     "romaji": "Me ga nai",
     "english": "No eyes",
     "meaning": "Have a weakness for something. (Set 5)"
-  }
-,
+  },
   {
     "japanese": "鼻が高い",
     "romaji": "Hana ga takai",
     "english": "High nose",
     "meaning": "Feel proud. (Set 2)"
+  },
+  {
+    "japanese": "手に入れる",
+    "romaji": "Te ni ireru",
+    "english": "Put into one’s hand",
+    "meaning": "Obtain something. (Set 1)"
+  },
+  {
+    "japanese": "腹が立つ",
+    "romaji": "Hara ga tatsu",
+    "english": "Stomach stands up",
+    "meaning": "Get angry. (Set 3)"
   }
-  ,
-  { "japanese": "手に入れる", 
-    "romaji": "Te ni ireru", 
-    "english": "Put into one’s hand", 
-    "meaning": "Obtain something. (Set 1)" 
-  }
-
 ]
