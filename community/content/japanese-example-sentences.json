@@ -52,5 +52,11 @@
     "romaji": "Kyou wa tenki ga ii desu ne.",
     "english": "The weather is nice today, isn't it?",
     "jlpt": "N5"
+  },
+  {
+    "japanese": "この漢字の読み方を教えてください。",
+    "romaji": "Kono kanji no yomikata o oshiete kudasai.",
+    "english": "Please tell me how to read this kanji.",
+    "jlpt": "N5"
   }
 ]
