@@ -665,4 +665,11 @@
   "mainColor": "oklch(78.0% 0.040 230.0 / 1)",
   "secondaryColor": "oklch(50.0% 0.030 255.0 / 1)"
 }
+,
+  {
+    "id": "osaka-neon",
+    "backgroundColor": "oklch(14.0% 0.060 300.0 / 1)",
+    "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
+    "secondaryColor": "oklch(85.0% 0.175 190.0 / 1)"
+  }
 ]
